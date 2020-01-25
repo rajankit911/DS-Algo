@@ -7,7 +7,7 @@ typedef pair<int,int> pii;
 typedef vector<int> vi;
 typedef vector<vi> vvi;
 
-/*first element as pivot*/
+/*last element as pivot*/
 
 void swap(int& a, int& b) {
     int temp;
